@@ -1,6 +1,6 @@
 const btnEl = document.getElementById("btn");
 const jokeEl = document.getElementById("joke");
-const apiKey = "OKy4HXHRo+uBhASdfJsj8A==XVSXn6UeUYcP30g4";
+const apiKey = "5LscaWFTYVCIcE9nqyleSA==RhEgcEAobxD1MEgT";
 
 
 const options = {
